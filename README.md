@@ -31,9 +31,10 @@ Este projeto usa o flutter_native_splash para criar a Splash Screen animada. Par
 ```
 
 flutter pub run flutter_native_splash:create
+```
 Isso irá gerar as configurações da splash na inicialização do app.
 
-```
+
 4. Como executar o app
 Para executar o app em um dispositivo Android ou iOS, use o comando:
 
