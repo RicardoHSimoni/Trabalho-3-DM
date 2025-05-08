@@ -58,17 +58,15 @@ Splash Screen: Uma animação simples é exibida ao carregar o app.
 Onboarding: Cada tela de onboarding tem animações personalizadas feitas com o pacote lottie para ilustrar os recursos do app.
 
 
+Personalização:
 
-
-Onboarding
-
-Personalização
 Você pode personalizar a Splash Screen ajustando a animação e a tela inicial no arquivo android/app/src/main/res/drawable/launch_background.xml.
 
 As animações do Onboarding podem ser personalizadas usando arquivos Lottie no diretório assets.
 
-Dependências
-O projeto utiliza as seguintes dependências principais:
+Dependências:
+
+O projeto utiliza as seguintes dependências principais
 
 flutter_native_splash: Para configurar a Splash Screen.
 
@@ -77,3 +75,11 @@ lottie: Para animações no onboarding.
 provider: Para gerenciamento de estado (caso necessário).
 
 shared_preferences: Para armazenar preferências do usuário.
+
+
+🧑‍💻 Autores:
+
+Ricardo Henrique Simo
+
+João Victor Pires Novaes
+
